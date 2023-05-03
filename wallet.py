@@ -13,7 +13,7 @@ from decimal import Decimal
 from tkcalendar import DateEntry
 
 root = Tk()
-connection = mysql.connector.connect(host='localhost', user='root', port='3306', password='test123', database='EWALLET')
+connection = mysql.connector.connect(host='localhost', user='root', port='3306', password='******', database='EWALLET')
 c = connection.cursor()
 
 # width and height
