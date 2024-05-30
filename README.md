@@ -20,3 +20,11 @@ payment network.
 
 ## ER Diagram
 ![image](https://github.com/Vishnupriya1710/eWalletSystem/assets/41684141/639f91c0-115b-4c78-bda9-e6268b8f17c8)
+
+## Relational Schema
+![image](https://github.com/Vishnupriya1710/eWalletSystem/assets/41684141/48ce5fe1-902e-455f-9bb8-5e4aea8b042b)
+
+## Use Cases
+* A Beginner Login - Registration Window is ensured to activate new customers to
+register using the Wallet Application and current customers to perform necessary actions
+through Login.
